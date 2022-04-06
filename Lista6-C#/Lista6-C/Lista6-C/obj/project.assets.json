@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\C#_Visualst\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\User\\Desktop\\C#_Visualst\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\C#_Visualst\\Lista6-C#\\Lista6-C\\Lista6-C\\Lista6-C.csproj",
+      "projectName": "Lista6-C",
+      "projectPath": "C:\\Users\\User\\Desktop\\C#_Visualst\\Lista6-C#\\Lista6-C\\Lista6-C\\Lista6-C.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\C#_Visualst\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\C#_Visualst\\Lista6-C#\\Lista6-C\\Lista6-C\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

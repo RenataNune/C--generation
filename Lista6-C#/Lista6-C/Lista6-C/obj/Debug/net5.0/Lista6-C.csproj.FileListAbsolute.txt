@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\bin\Debug\net5.0\Lista6-C.exe
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\bin\Debug\net5.0\Lista6-C.deps.json
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\bin\Debug\net5.0\Lista6-C.runtimeconfig.json
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\bin\Debug\net5.0\Lista6-C.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\bin\Debug\net5.0\Lista6-C.dll
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\bin\Debug\net5.0\Lista6-C.pdb
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.dll
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\refint\Lista6-C.dll
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.pdb
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\Lista6-C.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Visualst\Lista6-C#\Lista6-C\Lista6-C\obj\Debug\net5.0\ref\Lista6-C.dll
