@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IMC-Índice_de_massa _corporal_C/1.0.0": {
+        "runtime": {
+          "IMC-Índice_de_massa _corporal_C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMC-Índice_de_massa _corporal_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
