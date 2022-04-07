@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculadora Lista 7/1.0.0": {
+        "runtime": {
+          "Calculadora Lista 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora Lista 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

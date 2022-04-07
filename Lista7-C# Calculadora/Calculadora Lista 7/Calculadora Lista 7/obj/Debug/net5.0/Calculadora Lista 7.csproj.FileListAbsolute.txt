@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\bin\Debug\net5.0\Calculadora Lista 7.exe
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\bin\Debug\net5.0\Calculadora Lista 7.deps.json
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\bin\Debug\net5.0\Calculadora Lista 7.runtimeconfig.json
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\bin\Debug\net5.0\Calculadora Lista 7.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\bin\Debug\net5.0\Calculadora Lista 7.dll
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\bin\Debug\net5.0\Calculadora Lista 7.pdb
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.dll
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\refint\Calculadora Lista 7.dll
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.pdb
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\Calculadora Lista 7.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Calculadora Lista 7\Calculadora Lista 7\obj\Debug\net5.0\ref\Calculadora Lista 7.dll
