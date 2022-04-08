@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\bin\Debug\net5.0\Classe e Objeto.exe
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\bin\Debug\net5.0\Classe e Objeto.deps.json
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\bin\Debug\net5.0\Classe e Objeto.runtimeconfig.json
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\bin\Debug\net5.0\Classe e Objeto.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\bin\Debug\net5.0\Classe e Objeto.dll
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\bin\Debug\net5.0\Classe e Objeto.pdb
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.dll
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\refint\Classe e Objeto.dll
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.pdb
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\Classe e Objeto.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Visualst\Lista7-C# Calculadora\Classe e Objeto\Classe e Objeto\obj\Debug\net5.0\ref\Classe e Objeto.dll

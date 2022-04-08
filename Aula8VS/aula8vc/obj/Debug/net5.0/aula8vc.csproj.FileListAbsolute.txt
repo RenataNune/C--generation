@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\bin\Debug\net5.0\aula8vc.exe
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\bin\Debug\net5.0\aula8vc.deps.json
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\bin\Debug\net5.0\aula8vc.runtimeconfig.json
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\bin\Debug\net5.0\aula8vc.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\bin\Debug\net5.0\aula8vc.dll
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\bin\Debug\net5.0\aula8vc.pdb
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.dll
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\refint\aula8vc.dll
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.pdb
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\aula8vc.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Visualst\Aula8VS\aula8vc\obj\Debug\net5.0\ref\aula8vc.dll
