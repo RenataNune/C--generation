@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\bin\Debug\net5.0\Lista10-Cal..exe
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\bin\Debug\net5.0\Lista10-Cal..deps.json
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\bin\Debug\net5.0\Lista10-Cal..runtimeconfig.json
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\bin\Debug\net5.0\Lista10-Cal..runtimeconfig.dev.json
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\bin\Debug\net5.0\Lista10-Cal..dll
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\bin\Debug\net5.0\Lista10-Cal..pdb
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..dll
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\refint\Lista10-Cal..dll
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..pdb
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\Lista10-Cal..genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\matemática\Lista10-Cal\obj\Debug\net5.0\ref\Lista10-Cal..dll

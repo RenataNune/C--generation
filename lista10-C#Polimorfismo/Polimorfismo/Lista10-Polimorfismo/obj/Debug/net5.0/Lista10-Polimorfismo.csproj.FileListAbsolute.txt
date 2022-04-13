@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\bin\Debug\net5.0\Lista10-Polimorfismo.exe
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\bin\Debug\net5.0\Lista10-Polimorfismo.deps.json
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\bin\Debug\net5.0\Lista10-Polimorfismo.runtimeconfig.json
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\bin\Debug\net5.0\Lista10-Polimorfismo.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\bin\Debug\net5.0\Lista10-Polimorfismo.dll
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\bin\Debug\net5.0\Lista10-Polimorfismo.pdb
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.dll
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\refint\Lista10-Polimorfismo.dll
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.pdb
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\Lista10-Polimorfismo.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Visualst\lista10-C#Polimorfismo\Polimorfismo\Lista10-Polimorfismo\obj\Debug\net5.0\ref\Lista10-Polimorfismo.dll
